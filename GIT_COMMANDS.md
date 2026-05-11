@@ -1,4 +1,4 @@
-##### Github commands #####
+# Github commands #
 
 ## git config ##
 

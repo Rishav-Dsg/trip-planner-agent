@@ -10,19 +10,19 @@
 
 ``` git init```
 ``` git status ```
-``` git add . ```
-``` git commit -m "your message" ```
+``` -> git add . ```
+``` -> git commit -m "your message" ```
 
 ## connect local repo to github ##
 
-``` git remote add origin https://github.com/USERNAME/REPO.git ```
+``` => git remote add origin https://github.com/USERNAME/REPO.git ```
 ``` git remote -v ```
 
 ## push code to github ##
 
-``` git branch -M main ```
-``` git push -u origin main ```
-``` git push (later pushes)```
+``` => git branch -M main ```
+``` => git push -u origin main ```
+``` -> git push (later pushes)```
 
 ## pull latest changes from github + clone existing repo##
 
